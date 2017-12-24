@@ -1,0 +1,9 @@
+G:\Projects\GitTestA\GitTestA\bin\Debug\netcoreapp1.1\GitTestA.deps.json
+G:\Projects\GitTestA\GitTestA\bin\Debug\netcoreapp1.1\GitTestA.runtimeconfig.json
+G:\Projects\GitTestA\GitTestA\bin\Debug\netcoreapp1.1\GitTestA.runtimeconfig.dev.json
+G:\Projects\GitTestA\GitTestA\bin\Debug\netcoreapp1.1\GitTestA.dll
+G:\Projects\GitTestA\GitTestA\bin\Debug\netcoreapp1.1\GitTestA.pdb
+G:\Projects\GitTestA\GitTestA\obj\Debug\netcoreapp1.1\GitTestA.csprojResolveAssemblyReference.cache
+G:\Projects\GitTestA\GitTestA\obj\Debug\netcoreapp1.1\GitTestA.AssemblyInfo.cs
+G:\Projects\GitTestA\GitTestA\obj\Debug\netcoreapp1.1\GitTestA.dll
+G:\Projects\GitTestA\GitTestA\obj\Debug\netcoreapp1.1\GitTestA.pdb
